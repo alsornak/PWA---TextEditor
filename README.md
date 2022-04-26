@@ -10,8 +10,6 @@ Link to deployed application =>
 
 - [Contributors](#contributors)
 
-- [Testing](#testing)
-
 ## Description
 Created a simple text editor app that can function both online and offline. Needed to use a variety of data persistence options in order to ensure that data is not lost in any scenario. The application first looks to use the data in the indexedDB to populate the editor, then if it cannot access that it will use local storage. For use offline, this application can be downloaded to your desktop as an application. This application is helpful to developers because they can use this as a scratch pad for code snippets and coding ideas. User story is below. 
   
@@ -61,6 +59,3 @@ To use this app, simply open it up in the browser (with the deployed app link at
 
 ## Contributors
 No additional contributors on this project. 
-
-## Testing
-No tests were required for this project. 
