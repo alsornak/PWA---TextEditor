@@ -6,6 +6,8 @@ Link to deployed application =>
 
 - [Installation](#installation)
 
+- [Mock-Up](#Mock-Up)
+
 - [Usage](#usage)
 
 - [Contributors](#contributors)
@@ -53,6 +55,20 @@ THEN I should have proper build scripts for a webpack application
   
 ## Installation
 to install the dependencies for this project, the user simply needs to clone the repository and then run the command "npm install". This will install all necessary dependencies since they are all included in the package.json. 
+
+## Mock-Up
+
+The following image shows the application's `manifest.json` file:
+
+![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/Manifest.png)
+
+The following image shows the application's registered service worker:
+
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/Service-Worker.png)
+
+The following image shows the application's IndexedDB storage:
+
+![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/idb-storage.png)
 
 ## Usage
 To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page. 
