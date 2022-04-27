@@ -74,4 +74,4 @@ The following image shows the application's IndexedDB storage:
 To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page. 
 
 ## Contributors
-No additional contributors on this project. 
+Sorna Kesavan ©2022 All Rights Reserved.
