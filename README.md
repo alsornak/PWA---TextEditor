@@ -66,15 +66,15 @@ Then type the following command in your termimal:
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/Manifest.png)
+![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/manifest.png)
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/Service-Worker.png)
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/service-worker.png)
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/idb-storage.png)
+![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/idb.png)
 
 **[⬆ back to top](#table-of-contents)**
 
