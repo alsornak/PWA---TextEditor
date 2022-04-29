@@ -64,17 +64,17 @@ Then type the following command in your termimal:
 
 ## Mock-Up
 
-The following image shows the application's IndexedDB storage:
+The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/idb.png)
-
-The following image shows the application's manifest.json file:
-
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/manifest.png)
+![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/Manifest.png)
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/service-worker.png)
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](./Assets/Service-Worker.png)
+
+The following image shows the application's IndexedDB storage:
+
+![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](./Assets/idb.png)
 
 **[⬆ back to top](#table-of-contents)**
 
