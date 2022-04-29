@@ -16,7 +16,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sorna",  
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
