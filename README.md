@@ -66,7 +66,7 @@ Then type the following command in your termimal:
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](./Assets/manifest.png)
+(./Assets/manifest.png)
 
 The following image shows the application's registered service worker:
 
